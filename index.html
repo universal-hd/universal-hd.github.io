@@ -171,6 +171,7 @@
                     if (exec && exec[2]) {
                         yohoho.dataset.kinopoisk = exec[2];
                         window.location.hash = '#' + yohoho.dataset.kinopoisk;
+                        document.title = 'КиноПоиск: ' + yohoho.dataset.kinopoisk;
                     }
                 } else if (/^\d+$/.test(title.value)) {
                     yohoho.dataset.kinopoisk = title.value;
