@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: telekinozal.ru
+Token: 41ba509e687eb4b8b1243746b5652366a637ce61914900626efdd478999e9cb1
