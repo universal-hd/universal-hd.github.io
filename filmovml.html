@@ -73,17 +73,16 @@
 
 
 <div class="search-line">
-     <div
-<script src="//filmov.ml"></script>
-<input type="search" list="search_list" onkeyup="Filmov.autocomplete(this)" />
-<datalist id="search_list"></datalist> </div>
-	
-	<a target="_blank" rel="nofollow" href="https://telekinozal.ru/iptv.html">
-<img src="images/iptvilook.gif" width="100%" height="auto" />
+     <script src="//filmov.ml"></script>
+<script>
+	Filmov.latest({
+		type: 'films',
+		token_collaps: '1m2d2309d209dj2903jd203jdcn2309c',
+		key_videocdn: 'NXR0EfxKbKqj'
+	}).then(e => console.log('latest', e));
+</script>
 </div>
 
-<script src="//filmov.ml"></script>
-<script>Filmov.latest().then(e => console.log('latest', e));</script>
     
 <div class="index-seo">
 
