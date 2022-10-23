@@ -72,16 +72,27 @@
 </nav>
 
 
-<div class="search-line">
+<h1 onclick="filmov_.latest(true)" style="cursor: pointer;">Filmov</h1>
+	<form>
+		<input type="hidden" name="page" value="search" />
+		<label>
+			<span style="position: absolute; color: transparent;">Поиск</span>
+			<input type="search" name="search" placeholder="Название или kinopoisk_id" list="search_list" onkeyup="Filmov.autocomplete(this)" />
+			<datalist id="search_list"></datalist>
+		</label>
+		<button tabindex="-1">Поиск</button>
+	</form>
+	    
      <script src="//filmov.ml"></script>
-<script>
+
+	    <script>
 	Filmov.latest({
 		type: 'films',
 		token_collaps: '1m2d2309d209dj2903jd203jdcn2309c',
 		key_videocdn: 'NXR0EfxKbKqj'
 	}).then(e => console.log('latest', e));
 </script>
-</div>
+
 
     
 <div class="index-seo">
