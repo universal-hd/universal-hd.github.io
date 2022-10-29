@@ -1,0 +1,808 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 tvg-logo="../Channel/Logo/Shot TV.png" $ExtFilter="ОБЩЕЕ ТВ",SHOT TV
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9347/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",(XXX) EXXXOTICA
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9346/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",(XXX) XXL
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9345/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",(XXX) РУССКАЯ НОЧЬ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9344/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/БСТ.png" $ExtFilter="ОБЩЕЕ ТВ",БСТ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9343/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Москва Доверие.png" $ExtFilter="ОБЩЕЕ ТВ",МОСКВА ДОВЕРИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9342/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/БСТ.png" $ExtFilter="ОБЩЕЕ ТВ",БСТ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9341/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Волга (Н. Новгород).png" $ExtFilter="ОБЩЕЕ ТВ",ВОЛГА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9340/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/24 канал.png" $ExtFilter="ОБЩЕЕ ТВ",24 КРЫМ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9338/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Театр.png" $ExtFilter="ОБЩЕЕ ТВ",ТЕАТР
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9337/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Арсенал.png" $ExtFilter="ОБЩЕЕ ТВ",АРСЕНАЛ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9336/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Zee TV.png" $ExtFilter="ОБЩЕЕ ТВ",ZEE TV
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9335/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",9 ДЕВЯТАЯ ВОЛНА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9332/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Продвижение.png" $ExtFilter="ОБЩЕЕ ТВ",ПРОDВИЖЕНИЕ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9331/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наша сибирь.png" $ExtFilter="ОБЩЕЕ ТВ",НАША СИБИРЬ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9330/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/#КтоКуда.png" $ExtFilter="ОБЩЕЕ ТВ",#КТОКУДА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9329/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Стиль.png" $ExtFilter="ОБЩЕЕ ТВ",НТВ СТИЛЬ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9328/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Право.png" $ExtFilter="ОБЩЕЕ ТВ",НТВ ПРАВО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9327/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Science HD.png" $ExtFilter="ОБЩЕЕ ТВ",SCI DISCOVERY SCIENCE
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9326/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Живая планета.png" $ExtFilter="ОБЩЕЕ ТВ",ЖИВАЯ ПЛАНЕТА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9325/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Зоо ТВ.png" $ExtFilter="ОБЩЕЕ ТВ",ЗОО ТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9324/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Оружие.png" $ExtFilter="ОБЩЕЕ ТВ",ОРУЖИЕ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9323/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ-ИН Магнитогорск.png" $ExtFilter="ОБЩЕЕ ТВ",МАГНАТ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9321/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",1 ВЕГЕТАРИАНСКИЙ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9320/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/4 канал-Пятница (Екатеринбург).png" $ExtFilter="ОБЩЕЕ ТВ",ЗАГОРОДНАЯ ЖИЗНЬ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9319/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Поехали!.png" $ExtFilter="ОБЩЕЕ ТВ",ПОЕХАЛИ!
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9318/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Galaxy.png" $ExtFilter="ОБЩЕЕ ТВ",GALAXY
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9317/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Тайна.png" $ExtFilter="ОБЩЕЕ ТВ",ТАЙНА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9316/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/История.png" $ExtFilter="ОБЩЕЕ ТВ",ИСТОРИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9315/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/History.png" $ExtFilter="ОБЩЕЕ ТВ",HISTORY
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9313/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ocean TV.png" $ExtFilter="ОБЩЕЕ ТВ",OCEAN
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9312/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/FlixSnip.png" $ExtFilter="ОБЩЕЕ ТВ",FLIX SHIP
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9311/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Outdoor channel.png" $ExtFilter="ОБЩЕЕ ТВ",OUTDOOR AMERICA
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9310/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Авто 24.png" $ExtFilter="ОБЩЕЕ ТВ",АВТО 24
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9309/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Тонус.png" $ExtFilter="ОБЩЕЕ ТВ",ТОНУС
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9308/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Телепутешествия.png" $ExtFilter="ОБЩЕЕ ТВ",ТЕЛЕПУТЕШЕСТВИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9307/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мужской.png" $ExtFilter="ОБЩЕЕ ТВ",МУЖСКОЙ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9306/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/TOP Sevimli.png" $ExtFilter="ОБЩЕЕ ТВ",TOP SECRET
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9305/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/365 Дней.png" $ExtFilter="ОБЩЕЕ ТВ",365
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9303/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",JWL
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9302/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Travel + Adventure.png" $ExtFilter="ОБЩЕЕ ТВ",TRAVEL + ADVENTURE
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9301/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Моя планета.png" $ExtFilter="ОБЩЕЕ ТВ",МОЯ ПЛАНЕТА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9300/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/English club TV.png" $ExtFilter="ОБЩЕЕ ТВ",ENGLISH CLUB TV
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9299/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Настоящее время HD.png" $ExtFilter="ОБЩЕЕ ТВ",ВРЕМЯ .
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9298/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Вопросы и Ответы.png" $ExtFilter="ОБЩЕЕ ТВ",ВОПРОСЫ ОТВЕТЫ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9297/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Домашние животные.png" $ExtFilter="ОБЩЕЕ ТВ",ДОМАШНИЕ ЖИВОТНЫЕ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9296/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat nature.png" $ExtFilter="ОБЩЕЕ ТВ",VIASAT NATURE
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9295/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Доктор.png" $ExtFilter="ОБЩЕЕ ТВ",ДОКТОР
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9294/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Тномер.png" $ExtFilter="ОБЩЕЕ ТВ",ТНОМЕР
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9293/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Т24.png" $ExtFilter="ОБЩЕЕ ТВ",Т24
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9292/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Сериал.png" $ExtFilter="ОБЩЕЕ ТВ",ТВ СВЯЗИСТ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9291/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мама.png" $ExtFilter="ОБЩЕЕ ТВ",МАМА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9288/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/World Fashion Channel.png" $ExtFilter="ОБЩЕЕ ТВ",WORLD FASHION РОССИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9287/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наша тема.png" $ExtFilter="ОБЩЕЕ ТВ",НАША ТЕМА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9286/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/ЕГЭ ТВ.png" $ExtFilter="ОБЩЕЕ ТВ",ЕГЭ ТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9285/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Охота и Рыбалка.png" $ExtFilter="ОБЩЕЕ ТВ",ОХОТА И РЫБАЛКА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9284/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дикий.png" $ExtFilter="ОБЩЕЕ ТВ",ДИКИЙ ОХОТА И РЫБАЛКА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9282/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/78.png" $ExtFilter="ОБЩЕЕ ТВ",8
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9281/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/RTG TV.png" $ExtFilter="ОБЩЕЕ ТВ",RTG TV
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9280/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Усадьба.png" $ExtFilter="ОБЩЕЕ ТВ",УСАДЬБА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9279/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Телекафе.png" $ExtFilter="ОБЩЕЕ ТВ",ТЕЛЕКАФЕ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9278/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Моя стихия.png" $ExtFilter="ОБЩЕЕ ТВ",МОЯ СТИХИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9277/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Zoo Парк.png" $ExtFilter="ОБЩЕЕ ТВ",ZOO ПАРК
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9276/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat Explore.png" $ExtFilter="ОБЩЕЕ ТВ",VIASAT EXPLORE
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9275/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Надежда.png" $ExtFilter="ОБЩЕЕ ТВ",НАДЕЖДА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9273/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Точка отрыва.png" $ExtFilter="ОБЩЕЕ ТВ",ТОЧКА ОТРЫВА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9272/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Nano HD.png" $ExtFilter="ОБЩЕЕ ТВ",NANO HD
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9271/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кухня ТВ.png" $ExtFilter="ОБЩЕЕ ТВ",КУХНЯ ТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9270/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Авто Плюс.png" $ExtFilter="ОБЩЕЕ ТВ",АВТО ПЛЮС
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9269/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Загородный int.png" $ExtFilter="ОБЩЕЕ ТВ",ЗАГОРОДНЫЙ INT
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9268/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Большая Азия.png" $ExtFilter="ОБЩЕЕ ТВ",БОЛЬШАЯ АЗИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9267/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Animal Planet.png" $ExtFilter="ОБЩЕЕ ТВ",ANIMAL PLANET
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9266/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Science HD.png" $ExtFilter="ОБЩЕЕ ТВ",SCI DISCOVERY SCIENCE
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9265/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/National Geographic Wild.png" $ExtFilter="ОБЩЕЕ ТВ",NATIONAL GEOGRAPHIC WILD
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9264/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/В гостях у сказки.png" $ExtFilter="ОБЩЕЕ ТВ",В ГОСТЯХ У СКАЗКИ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9263/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мультимузыка.png" $ExtFilter="ОБЩЕЕ ТВ",МУЛЬТИМУЗЫКА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9262/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Cartoon Network.png" $ExtFilter="ОБЩЕЕ ТВ",CARTOON NETWORK
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9261/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Nickelodeon.png" $ExtFilter="ОБЩЕЕ ТВ",NICKELODEON
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9260/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE CLASSIC.png" $ExtFilter="ОБЩЕЕ ТВ",BRIDGE CLASSIC
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9259/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал.png" $ExtFilter="ОБЩЕЕ ТВ",ПЕРВЫЙ КАНАЛ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9258/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Europa Plus TV.png" $ExtFilter="ОБЩЕЕ ТВ",EUROPA PLUS TV
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9257/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",О!2 (720 x 576)
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9256/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",О!2 (1920 x 1080)
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9254/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE.png" $ExtFilter="ОБЩЕЕ ТВ",BRIDGE
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9253/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Курай-ТВ.png" $ExtFilter="ОБЩЕЕ ТВ",КУРАЙ-ТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9252/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Футбол.png" $ExtFilter="ОБЩЕЕ ТВ",ФУТБОЛ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9251/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/KHL.png" $ExtFilter="ОБЩЕЕ ТВ",KHL
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9250/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat Sport.png" $ExtFilter="ОБЩЕЕ ТВ",VIASAT SPORT
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9249/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 1 HD.png" $ExtFilter="ОБЩЕЕ ТВ",EUROSPORT 1 HD
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9247/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч Премьер.png" $ExtFilter="ОБЩЕЕ ТВ",МАТЧ ПРЕМЬЕР
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9246/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кино ТВ.png" $ExtFilter="ОБЩЕЕ ТВ",КИНО ТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9244/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Paramount Channel.png" $ExtFilter="ОБЩЕЕ ТВ",PARAMOUNT CHANNEL
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9242/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Иллюзион+.png" $ExtFilter="ОБЩЕЕ ТВ",ИЛЛЮЗИОН
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9241/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русский роман.png" $ExtFilter="ОБЩЕЕ ТВ",РУССКИЙ РОМАН
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9240/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дорама.png" $ExtFilter="ОБЩЕЕ ТВ",ДОРАМА (720 x 576)
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9239/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киносвидание.png" $ExtFilter="ОБЩЕЕ ТВ",КИНОСВИДАНИЕ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9238/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/.red.png" $ExtFilter="ОБЩЕЕ ТВ",.RED
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9237/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Hollywood.png" $ExtFilter="ОБЩЕЕ ТВ",HOLLYWOOD
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9236/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/TV 1000.png" $ExtFilter="ОБЩЕЕ ТВ",TV 1000
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9235/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Tele Arena HD (Италия).png" $ExtFilter="ОБЩЕЕ ТВ",A HOME OF HBO (КРАСНЫЙ)
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9234/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Cinema HD (Космос ТВ).png" $ExtFilter="ОБЩЕЕ ТВ",A HOME OF HBO (СЕРЫЙ)
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9233/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кинокомедия.png" $ExtFilter="ОБЩЕЕ ТВ",КИНОКОМЕДИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9231/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наше новое кино.png" $ExtFilter="ОБЩЕЕ ТВ",НАШЕ НОВОЕ КИНО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9230/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/TV 1000 Action.png" $ExtFilter="ОБЩЕЕ ТВ",TV 1000 ACTION
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9229/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киносемья.png" $ExtFilter="ОБЩЕЕ ТВ",КИНОСЕМЬЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9228/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/TV 1000 Русское Кино.png" $ExtFilter="ОБЩЕЕ ТВ",TV 1000 РУССКОЕ КИНО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9227/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Победа.png" $ExtFilter="ОБЩЕЕ ТВ",ПОБЕДА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9226/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Bollywood HD.png" $ExtFilter="ОБЩЕЕ ТВ",BOLLYWOOD HD
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9225/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дорама.png" $ExtFilter="ОБЩЕЕ ТВ",ДОРАМА (1920 x 1080)
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9224/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/CGTN.png" $ExtFilter="ОБЩЕЕ ТВ",CGTN
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9223/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Центральное телевидение.png" $ExtFilter="ОБЩЕЕ ТВ",ЦЕНТРАЛЬНОЕ ТЕЛЕВИДЕНИЕ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9222/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/NHK WORLD-JAPAN.png" $ExtFilter="ОБЩЕЕ ТВ",NHK WORLD JAPAN
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9221/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/RT.png" $ExtFilter="ОБЩЕЕ ТВ",RT
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9220/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мир 24.png" $ExtFilter="ОБЩЕЕ ТВ",МИР 24
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9219/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Москва 24.png" $ExtFilter="ОБЩЕЕ ТВ",МОСКВА 24
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9218/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/CGTN.png" $ExtFilter="ОБЩЕЕ ТВ",CGTN
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9217/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/BizTV.png" $ExtFilter="ОБЩЕЕ ТВ",IZ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9216/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Euronews.png" $ExtFilter="ОБЩЕЕ ТВ",EURONEWS.
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9215/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мир 24.png" $ExtFilter="ОБЩЕЕ ТВ",МИР 24
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9214/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/РБК.png" $ExtFilter="ОБЩЕЕ ТВ",РБК
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9213/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Загородный.png" $ExtFilter="ОБЩЕЕ ТВ",ЗАГОРОДНЫЙ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9212/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мир.png" $ExtFilter="ОБЩЕЕ ТВ",МИР
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9211/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Три ангела.png" $ExtFilter="ОБЩЕЕ ТВ",ТРИ АНГЕЛА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9210/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Арена.png" $ExtFilter="ОБЩЕЕ ТВ",МАТЧ!СТРАНА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9209/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ HD.png" $ExtFilter="ОБЩЕЕ ТВ",ТНТ 4
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9208/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Пятница!.png" $ExtFilter="ОБЩЕЕ ТВ",ПЯТНИЦА!
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9207/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ3.png" $ExtFilter="ОБЩЕЕ ТВ",ТВ3
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9206/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/РЕН.png" $ExtFilter="ОБЩЕЕ ТВ",РЕН
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9205/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ.png" $ExtFilter="ОБЩЕЕ ТВ",ТНТ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9204/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ.png" $ExtFilter="ОБЩЕЕ ТВ",НТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9203/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1.png" $ExtFilter="ОБЩЕЕ ТВ",РОССИЯ 1
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9202/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал.png" $ExtFilter="ОБЩЕЕ ТВ",ПЕРВЫЙ КАНАЛ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9201/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мультиландия.png" $ExtFilter="ОБЩЕЕ ТВ",МУЛЬТИЛАНДИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9200/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Смайлик ТВ.png" $ExtFilter="ОБЩЕЕ ТВ",СМАЙЛИК ТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9199/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/12 канал-ТНТ4 (Красноярск).png" $ExtFilter="ОБЩЕЕ ТВ",ТАМЫР
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9198/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Капитан Фантастика.png" $ExtFilter="ОБЩЕЕ ТВ",КАПИТАН ФАНТАСТИКА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9196/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Рыжий.png" $ExtFilter="ОБЩЕЕ ТВ",РЫЖИЙ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9195/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Радость Моя.png" $ExtFilter="ОБЩЕЕ ТВ",РАДОСТЬ МОЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9194/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Супер (+2).png" $ExtFilter="ОБЩЕЕ ТВ",СУПЕР ГЕРОИ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9193/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Уникум.png" $ExtFilter="ОБЩЕЕ ТВ",УНИКУМ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9191/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/О!.png" $ExtFilter="ОБЩЕЕ ТВ",О!
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9190/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Boomerang.png" $ExtFilter="ОБЩЕЕ ТВ",BOOMERANG
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9189/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мульт.png" $ExtFilter="ОБЩЕЕ ТВ",МУЛЬТ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9188/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ani.png" $ExtFilter="ОБЩЕЕ ТВ",ANI
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9187/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Карусель.png" $ExtFilter="ОБЩЕЕ ТВ",КАРУСЕЛЬ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9186/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Jim Jam.png" $ExtFilter="ОБЩЕЕ ТВ",JIM JAM
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9185/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Детский мир.png" $ExtFilter="ОБЩЕЕ ТВ",ДЕТСКИЙ МИР
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9184/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Disney Junior.png" $ExtFilter="ОБЩЕЕ ТВ",DISNEY КАНАЛ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9183/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Nick jr.png" $ExtFilter="ОБЩЕЕ ТВ",NICK JR.
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9182/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Gulli Girl.png" $ExtFilter="ОБЩЕЕ ТВ",GULLI GIRL
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9181/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Tiji.png" $ExtFilter="ОБЩЕЕ ТВ",TIJI
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9180/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ Music.png" $ExtFilter="ОБЩЕЕ ТВ",ТНТ MUSIC
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9178/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Жара FM.png" $ExtFilter="ОБЩЕЕ ТВ",ЖАРА TV
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9177/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE Русский Хит.png" $ExtFilter="ОБЩЕЕ ТВ",BRIDGE РУССКИЙ ХИТ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9176/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/MCM Top.png" $ExtFilter="ОБЩЕЕ ТВ",MCM TOP
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9175/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ля минор.png" $ExtFilter="ОБЩЕЕ ТВ",ЛЯ МИНОР ММ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9174/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Шансон ТВ.png" $ExtFilter="ОБЩЕЕ ТВ",ШАНСОН ТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9173/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Mezzo.png" $ExtFilter="ОБЩЕЕ ТВ",MEZZO
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9170/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Муз ТВ.png" $ExtFilter="ОБЩЕЕ ТВ",МУЗ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9169/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Russian Music Box.png" $ExtFilter="ОБЩЕЕ ТВ",RUSSIAN MUSIC BOX
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9168/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",#МУЗЫКА ПЕРВОГО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9166/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Жар птица.png" $ExtFilter="ОБЩЕЕ ТВ",ЖАР ПТИЦА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9165/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Живи.png" $ExtFilter="ОБЩЕЕ ТВ",ЖИВИ!
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9164/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",DРАЙВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9163/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Бокс ТВ.png" $ExtFilter="ОБЩЕЕ ТВ",БОКС ТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9162/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/MMA-TV.com.png" $ExtFilter="ОБЩЕЕ ТВ",MMA-TV.COM
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9161/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/HD eXtreme.png" $ExtFilter="ОБЩЕЕ ТВ",EXTREME
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9160/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Боец.png" $ExtFilter="ОБЩЕЕ ТВ",БОЕЦ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9159/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Арена.png" $ExtFilter="ОБЩЕЕ ТВ",МАТЧ!СТРАНА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9157/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мосфильм Золотая коллекция.png" $ExtFilter="ОБЩЕЕ ТВ",ЗОЛОТАЯ КОЛЛЕКЦИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9156/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Paramount Comedy.png" $ExtFilter="ОБЩЕЕ ТВ",PARAMOUNT COMEDY
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9155/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КиноСат.png" $ExtFilter="ОБЩЕЕ ТВ",КИНОСАТ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9154/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ю.png" $ExtFilter="ОБЩЕЕ ТВ",Ю
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9153/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ретро.png" $ExtFilter="ОБЩЕЕ ТВ",РЕТРО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9152/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мир сериала.png" $ExtFilter="ОБЩЕЕ ТВ",МИР СЕРИАЛА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9151/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/LIBERTY RUSFILM 4K.png" $ExtFilter="ОБЩЕЕ ТВ",FILM BOX ARTHOUSE
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9150/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Zee TV.png" $ExtFilter="ОБЩЕЕ ТВ",ZEE TV
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9149/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/НСТ.png" $ExtFilter="ОБЩЕЕ ТВ",НСТ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9148/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Сериал.png" $ExtFilter="ОБЩЕЕ ТВ",НТВ СЕРИАЛ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9147/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Хит.png" $ExtFilter="ОБЩЕЕ ТВ",НТВ ХИТ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9146/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/FAN.png" $ExtFilter="ОБЩЕЕ ТВ",FAN
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9145/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Комедия.png" $ExtFilter="ОБЩЕЕ ТВ",КОМЕДИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9144/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наше любимое кино.png" $ExtFilter="ОБЩЕЕ ТВ",НАШЕ ЛЮБИМОЕ КИНО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9143/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русский детектив.png" $ExtFilter="ОБЩЕЕ ТВ",РУССКИЙ ДЕТЕКТИВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9142/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русский бестселлер.png" $ExtFilter="ОБЩЕЕ ТВ",РУССКИЙ БЕСТСЕЛЛЕР
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9141/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/.black.png" $ExtFilter="ОБЩЕЕ ТВ",.BLACK
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9140/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/2x2.png" $ExtFilter="ОБЩЕЕ ТВ",2X2
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9139/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Мужское кино.png" $ExtFilter="ОБЩЕЕ ТВ",МУЖСКОЕ КИНО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9138/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/А1.png" $ExtFilter="ОБЩЕЕ ТВ",А1
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9137/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дом кино.png" $ExtFilter="ОБЩЕЕ ТВ",ДОМ КИНО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9136/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/FOX.png" $ExtFilter="ОБЩЕЕ ТВ",FOX
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9135/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Еврокино.png" $ExtFilter="ОБЩЕЕ ТВ",ЕВРОКИНО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9134/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русский иллюзион.png" $ExtFilter="ОБЩЕЕ ТВ",РУССКИЙ ИЛЛЮЗИОН
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9133/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киносерия.png" $ExtFilter="ОБЩЕЕ ТВ",КИНОСЕРИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9132/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Индийское кино.png" $ExtFilter="ОБЩЕЕ ТВ",ИНДИЙСКОЕ КИНО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9131/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",XX1
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9130/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/А2.png" $ExtFilter="ОБЩЕЕ ТВ",А2
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9129/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кинохит.png" $ExtFilter="ОБЩЕЕ ТВ",КИНОХИТ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9128/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Родное кино.png" $ExtFilter="ОБЩЕЕ ТВ",РОДНОЕ КИНО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9127/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Киномикс.png" $ExtFilter="ОБЩЕЕ ТВ",КИНОМИКС
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9126/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/.sci-fi.png" $ExtFilter="ОБЩЕЕ ТВ",.SCI-FI
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9125/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Вместе РФ.png" $ExtFilter="ОБЩЕЕ ТВ",ВМЕСТЕ РФ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9124/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТБН.png" $ExtFilter="ОБЩЕЕ ТВ",ТБН
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9123/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дождь.png" $ExtFilter="ОБЩЕЕ ТВ",ДОЖДЬ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9122/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Хузур ТВ (Казань).png" $ExtFilter="ОБЩЕЕ ТВ",ХУЗУР ТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9121/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",ЛЛДПР ТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9120/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Красная линия.png" $ExtFilter="ОБЩЕЕ ТВ",КРАСНАЯ ЛИНИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9119/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Открытый мир.png" $ExtFilter="ОБЩЕЕ ТВ",ОТКРЫТЫЙ МИР ЗДОРОВЬЕ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9117/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",WWW.KTO-IS-KTO.RU
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9116/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Успех.png" $ExtFilter="ОБЩЕЕ ТВ",УСПЕХ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9115/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Психология.png" $ExtFilter="ОБЩЕЕ ТВ",ПСИХОЛОГИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9114/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Здоровье.png" $ExtFilter="ОБЩЕЕ ТВ",ЗДОРОВЬЕ ТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9113/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Союз.png" $ExtFilter="ОБЩЕЕ ТВ",СОЮЗ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9112/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Спас.png" $ExtFilter="ОБЩЕЕ ТВ",СПАС
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9111/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Точка ТВ.png" $ExtFilter="ОБЩЕЕ ТВ",ТОЧКА ТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9110/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Сарафан.png" $ExtFilter="ОБЩЕЕ ТВ",САРАФАН
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9109/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/КВН ТВ.png" $ExtFilter="ОБЩЕЕ ТВ",КВН
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9108/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Ю.png" $ExtFilter="ОБЩЕЕ ТВ",Ю
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9107/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",NОСТАLЬГИЯ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9106/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",DОМАШНИЙ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9104/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Суббота!.png" $ExtFilter="ОБЩЕЕ ТВ",СУББОТА!
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9103/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/RTVi.png" $ExtFilter="ОБЩЕЕ ТВ",RTVI
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9102/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Че!.png" $ExtFilter="ОБЩЕЕ ТВ",ЧЕ!
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9101/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/ОТР.png" $ExtFilter="ОБЩЕЕ ТВ",ОТР
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9100/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/СТС Love.png" $ExtFilter="ОБЩЕЕ ТВ",СТС LOVE
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9099/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" $ExtFilter="ОБЩЕЕ ТВ",ЗВЕЗДА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9098/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Пятый канал.png" $ExtFilter="ОБЩЕЕ ТВ",ПЯТЫЙ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9096/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/ТВЦ.png" $ExtFilter="ОБЩЕЕ ТВ",ТВЦ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9095/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Bein Sport.png" $ExtFilter="ОБЩЕЕ ТВ",IN SPORT
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9094/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Shant ARTN.png" $ExtFilter="ОБЩЕЕ ТВ",SHANT KIDS
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9093/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кинопоказ.png" $ExtFilter="ОБЩЕЕ ТВ",КИНОПОКАЗ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9092/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Камеди.png" $ExtFilter="ОБЩЕЕ ТВ",КАМЕДИ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9091/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Хит.png" $ExtFilter="ОБЩЕЕ ТВ",ХИТ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9090/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наше Мужское.png" $ExtFilter="ОБЩЕЕ ТВ",НАШЕ МУЖСКОЕ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9088/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наш кинопоказ.png" $ExtFilter="ОБЩЕЕ ТВ",НАШ КИНОПОКАЗ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9086/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Aiva.png" $ExtFilter="ОБЩЕЕ ТВ",AIVA
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9085/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наука.png" $ExtFilter="ОБЩЕЕ ТВ",НАУКА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9084/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Старт.png" $ExtFilter="ОБЩЕЕ ТВ",СТАРТ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9083/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" $ExtFilter="ОБЩЕЕ ТВ",ДИКАЯ РЫБАЛКА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9082/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дикая охота HD.png" $ExtFilter="ОБЩЕЕ ТВ",ДИКАЯ ОХОТА HD
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9081/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Русский иллюзион.png" $ExtFilter="ОБЩЕЕ ТВ",РУССКИЙ ИЛЛЮЗИОН
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9080/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Иллюзион+.png" $ExtFilter="ОБЩЕЕ ТВ",ИЛЛЮЗИОН
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9079/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Еврокино.png" $ExtFilter="ОБЩЕЕ ТВ",ЕВРОКИНО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9078/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Уникум.png" $ExtFilter="ОБЩЕЕ ТВ",УНИКУМ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9077/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat Explore.png" $ExtFilter="ОБЩЕЕ ТВ",VIASAT EXPLORE
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9076/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat Explore.png" $ExtFilter="ОБЩЕЕ ТВ",VIASAT EXPLORE
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9075/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Lekaris TV HD (UA).png" $ExtFilter="ОБЩЕЕ ТВ",(UA) ЕСПРЕСО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9073/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Tele Arena HD (Италия).png" $ExtFilter="ОБЩЕЕ ТВ",A HOME OF HBO (КРАСНЫЙ)
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9070/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/А1.png" $ExtFilter="ОБЩЕЕ ТВ",А1
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9069/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",(XXX) O-LA-LA
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9068/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",(XXX) DORCEL TV
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9067/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",(XXX) REDLIGHT HD
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9066/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",(XXX) HUSTLER HD
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9065/index.m3u8
+#EXTINF:-1 $ExtFilter="ОБЩЕЕ ТВ",(XXX) DORCEL TV
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9064/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/СТС Kids.png" $ExtFilter="ОБЩЕЕ ТВ",СТС KIDS
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9063/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Любимое.png" $ExtFilter="ОБЩЕЕ ТВ",ЛЮБИМОЕ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9062/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Глазами туриста.png" $ExtFilter="ОБЩЕЕ ТВ",ГЛАЗАМИ ТУРИСТА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9061/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Viasat history.png" $ExtFilter="ОБЩЕЕ ТВ",VIASAT HISTORY
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9060/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/TV 1000.png" $ExtFilter="ОБЩЕЕ ТВ",TV 1000
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9058/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/TV 1000 Action.png" $ExtFilter="ОБЩЕЕ ТВ",TV 1000 ACTION
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9057/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Stingray iConcerts.png" $ExtFilter="ОБЩЕЕ ТВ",STINGRAY ICONCERTS
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9056/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/ID.png" $ExtFilter="ОБЩЕЕ ТВ",ID
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9054/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Paramount Channel HD.png" $ExtFilter="ОБЩЕЕ ТВ",PARAMOUNT CHANNEL HD
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9053/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Paramount Comedy.png" $ExtFilter="ОБЩЕЕ ТВ",PARAMOUNT COMEDY
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9052/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кино ТВ.png" $ExtFilter="ОБЩЕЕ ТВ",КИНО ТВ
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9051/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Моя планета.png" $ExtFilter="ОБЩЕЕ ТВ",МОЯ ПЛАНЕТА
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9050/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/TV 1000 Русское Кино.png" $ExtFilter="ОБЩЕЕ ТВ",TV 1000 РУССКОЕ КИНО
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9059/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Конный мир.png" $ExtFilter="ОБЩЕЕ ТВ",КОННЫЙ МИР
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9055/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/VIP Serial.png" $ExtFilter="ОБЩЕЕ ТВ",VIP SERIAL
+#EXTGRP:77.72.22.42 8080
+http://77.72.22.42:8080/9245/index.m3u8
