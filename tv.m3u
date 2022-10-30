@@ -3,7 +3,7 @@
 # https://okko.tv/collection/tvchannels (GEO block)
 #
 #EXTINF:-1 ,Первый канал (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
 #EXTINF:-1 ,Россия 1 HD
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
