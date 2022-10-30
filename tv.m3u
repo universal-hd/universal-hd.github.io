@@ -2,8 +2,8 @@
 #
 # https://okko.tv/collection/tvchannels (GEO block)
 #
-#EXTINF:-1 ,Первый канал (+2)
-https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/ntv2h/playlist.m3u8
+#EXTINF:-1 ,Первый канал HD
+https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
 #EXTINF:-1 ,Россия 1 HD
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 ,Матч! HD
