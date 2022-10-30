@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://epg.it999.ru/epg2.xml.gz"
 #
 # https://okko.tv/collection/tvchannels (GEO block)
 #
