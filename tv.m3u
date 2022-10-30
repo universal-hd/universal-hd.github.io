@@ -2,7 +2,7 @@
 #
 # https://okko.tv/collection/tvchannels (GEO block)
 #
-#EXTINF:-1 shift="+2" tvg-id="pervy-pl2" channelId="1" group-title="Региональные" catchup-enable="0",Первый канал (+2)
+#EXTINF:-1 group-title="Региональные" catchup-enable="0",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.3 (AndroidTV/9) HlsWinkPlayer
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 #EXTINF:-1 ,Россия 1 HD
