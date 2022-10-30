@@ -2,8 +2,7 @@
 #
 # https://okko.tv/collection/tvchannels (GEO block)
 #
-#EXTINF:-1 group-title="Региональные" catchup-enable="0",Первый канал (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.40.3 (AndroidTV/9) HlsWinkPlayer
+#EXTINF:-1 ,Первый канал (+2)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 #EXTINF:-1 ,Россия 1 HD
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
