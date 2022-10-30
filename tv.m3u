@@ -34,7 +34,7 @@ http://158.101.194.132:8080/channel/45d4daf4/index.m3u8?q=cac8b63ecddbd37b95fc87
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 http://158.101.194.132:8080/channel/n2ca59c5b/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
 #EXTINF:-1 ,Дом кино
-https://s21885.glaz.tv:8082/liveg/domkino.stream/chunks.m3u8
+http://193.233.9.49/streams/media/Dom_kino/index.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-407" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/sts.png",СТС (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
 http://158.101.194.132:8080/channel/3108a6c7/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
