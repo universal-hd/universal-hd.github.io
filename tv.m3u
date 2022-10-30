@@ -76,7 +76,7 @@ https://edge-01.kino.watch/hit/index.m3u8
 #EXTINF:0 tvg-id="hit" tvg-name="Доку", Доку
 #EXTGRP:Кино
 https://edge-01.kino.watch/docu/index.m3u8
-#EXTINF:0 tvg-id="test" tvg-name="Ужастик", Ужастик
+#EXTINF:0 ,Ужастик
 #EXTGRP:Кино
 http://edge-01.kino.watch/horror/index.m3u8
 #EXTINF:-1 ,BACKUSTV ORIGINAL
