@@ -4,61 +4,61 @@
 #
 #EXTINF:-1 tvg-id="hlsproxy-362" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/perviy.png",Первый канал (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n9fb873b/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/n9fb873b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n3d91e8f9/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/n3d91e8f9/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 ,Матч! HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-319" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/ntv.png",НТВ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/77eb41fa/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/77eb41fa/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-378" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/5-kanal.png",Пятый канал (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/5ae85235/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/5ae85235/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-395" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/rossiak.png",Россия К (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/6e911cbe/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/6e911cbe/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-393" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia-24.png",Россия 24 (Екатеринбург)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n781dcdcb/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/n781dcdcb/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-277" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/karusel.png",Карусель (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n1478fab1/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/n1478fab1/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-325" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/otr-ru.png",ОТР (Екатеринбург)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n631b0eda/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/n631b0eda/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-434" tvg-logo="http://158.101.194.132:8080/logos/tvc.png",ТВЦ
-http://158.101.194.132:8080/channel/45d4daf4/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/45d4daf4/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-382" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/rentv.png",РЕН ТВ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n2ca59c5b/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/n2ca59c5b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 ,Дом кино
 http://193.233.9.49/streams/media/Dom_kino/index.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-407" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/sts.png",СТС (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/3108a6c7/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/3108a6c7/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-246" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/domashniy.png",Домашний (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n27109c67/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/n27109c67/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-432" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/tv3.png",ТВ 3 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/5864758a/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/5864758a/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-377" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/pyatnica.png",Пятница! (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/3f8e9463/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/3f8e9463/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-259" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/zvezda.png",Звезда (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n10a39b4c/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/n10a39b4c/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-299" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/mir.png",Мир (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n15ade6bd/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/n15ade6bd/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-439" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/tnt-ru.png",ТНТ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n6de07c00/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/n6de07c00/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="hlsproxy-301" catchup="append" tvg-shift="+2" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-logo="http://158.101.194.132:8080/logos/muz.png",Муз ТВ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/73ed324d/index.m3u8?q=cac8b63ecddbd37b95fc8792a6858f36
+http://158.101.194.132:8080/channel/73ed324d/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 ,Ю
 https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
 #EXTINF:-1 ,Че
