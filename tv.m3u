@@ -70,6 +70,28 @@ https://sc.id-tv.kz/FOX_HD.m3u8
 https://sc.id-tv.kz/Hollywood.m3u8
 #EXTINF:-1 ,Калейдоскоп
 https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
+#EXTINF:-1 ,Мужское кино HD
+https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
+#EXTINF:-1 ,Киноужас HD
+https://sc.id-tv.kz/Kinouzhas_hd.m3u8
+#EXTINF:-1 ,Киносемья HD
+https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+#EXTINF:-1 ,Киносерия HD
+https://sc.id-tv.kz/Kinoseriya_hd.m3u8
+#EXTINF:-1 ,Кинокомедия HD
+https://sc.id-tv.kz/Kinokomediya_hd.m3u8
+#EXTINF:-1 ,Киносвидание HD
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd.m3u8
+#EXTINF:-1 ,Кинохит HD
+https://sc.id-tv.kz/Kinohit_hd.m3u8
+#EXTINF:-1 ,Киномикс HD
+https://sc.id-tv.kz/Kinomix_hd.m3u8
+#EXTINF:-1 ,Родное кино
+https://sc.id-tv.kz/Rodnoe_kino.m3u8
+#EXTINF:-1 ,Индийское кино
+https://sc.id-tv.kz/Indiiskoe_kino.m3u8
 #EXTINF:-1 ,Viasat Nature HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1 ,Viasat Explore HD
