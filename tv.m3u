@@ -2,81 +2,13 @@
 #
 # https://okko.tv/collection/tvchannels (GEO block)
 #
-#EXTINF:-1 ,Первый канал HD
-https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-391" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/rossia1.png",Россия 1 (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n3d91e8f9/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 ,Матч! HD
-https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-319" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/ntv.png",НТВ (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/77eb41fa/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="hlsproxy-378" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/5-kanal.png",Пятый канал (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/5ae85235/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="hlsproxy-395" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/rossiak.png",Россия К (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/6e911cbe/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="hlsproxy-393" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/rossia-24.png",Россия 24 (Екатеринбург)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n781dcdcb/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="hlsproxy-277" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/karusel.png",Карусель (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n1478fab1/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="hlsproxy-325" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="0" tvg-logo="http://158.101.194.132:8080/logos/otr-ru.png",ОТР (Екатеринбург)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n631b0eda/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 group-title="Россия" tvg-shift="0" tvg-id="hlsproxy-434" tvg-logo="http://158.101.194.132:8080/logos/tvc.png",ТВЦ
-http://158.101.194.132:8080/channel/45d4daf4/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="hlsproxy-382" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/rentv.png",РЕН ТВ (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n2ca59c5b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 ,Дом кино
-http://193.233.9.49/streams/media/Dom_kino/index.m3u8
-#EXTINF:-1 tvg-id="hlsproxy-407" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/sts.png",СТС (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/3108a6c7/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="hlsproxy-246" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/domashniy.png",Домашний (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n27109c67/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="hlsproxy-432" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/tv3.png",ТВ 3 (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/5864758a/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="hlsproxy-377" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/pyatnica.png",Пятница! (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/3f8e9463/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="hlsproxy-259" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/zvezda.png",Звезда (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n10a39b4c/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="hlsproxy-299" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/mir.png",Мир (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n15ade6bd/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="hlsproxy-439" catchup="append" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-shift="-2" tvg-logo="http://158.101.194.132:8080/logos/tnt-ru.png",ТНТ (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/n6de07c00/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="hlsproxy-301" catchup="append" tvg-shift="+2" catchup-days="3" catchup-source="&offset=-${start}&utcstart=${timestamp}" group-title="Каналы с архивом" tvg-logo="http://158.101.194.132:8080/logos/muz.png",Муз ТВ (+2)
-#EXTVLCOPT:http-user-agent=WINK/1.28.1 (Android/7.1.2)
-http://158.101.194.132:8080/channel/73ed324d/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 ,Ю
-https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
-#EXTINF:-1 ,Че
-https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
-#EXTINF:-1 ,СТС Love
-https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
-#EXTINF:-1 ,Известия HD
-https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
 #EXTINF:0 tvg-id="fresh" tvg-name="Свежаки", Свежаки
-#EXTGRP:Кино
 https://edge-01.kino.watch/fresh/index.m3u8
 #EXTINF:0 tvg-id="hit" tvg-name="Уже видел", Уже видел
-#EXTGRP:Кино
 https://edge-01.kino.watch/hit/index.m3u8
-#EXTINF:0 tvg-id="hit" tvg-name="Доку", Доку
-#EXTGRP:Кино
+#EXTINF:0 tvg-id="hit" tvg-name="Доку", Док
 https://edge-01.kino.watch/docu/index.m3u8
 #EXTINF:0 tvg-id="test" tvg-name="Ужастик", Ужастик
-#EXTGRP:Кино
 https://edge-01.kino.watch/horror/index.m3u8
 #EXTINF:-1 ,BACKUSTV ORIGINAL
 https://stream.backustv.ru/live/btv/index.m3u8
@@ -84,12 +16,12 @@ https://stream.backustv.ru/live/btv/index.m3u8
 https://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 ,BACKUSTV MUSIC
 https://stream.backustv.ru/live/vipbtv3/index.m3u8
+#EXTINF:-1 ,НСТ
+https://sc.id-tv.kz/NSTV.m3u8
 #EXTINF:-1 ,A1 HD
 https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:-1 ,A2 HD
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
-#EXTINF:-1 ,CTC Kids HD
-https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 #EXTINF:-1 ,Amedia Hit HD
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 #EXTINF:-1,Кинеко HD
@@ -116,26 +48,52 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:-1 ,Red
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1 ,Дом кино
+http://193.233.9.49/streams/media/Dom_kino/index.m3u8
+#EXTINF:-1 ,START Air HD
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
+#EXTINF:-1 ,START World HD
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
+#EXTINF:-1 ,Star Cinema HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD.m3u8
+#EXTINF:-1 ,Star Family HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD.m3u8
+#EXTINF:-1 ,Bolt HD
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD.m3u8
+#EXTINF:-1 ,Дорама
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:-1 ,Синема
+https://sc.id-tv.kz/Cinema.m3u8
+#EXTINF:-1 ,FOX HD
+https://sc.id-tv.kz/FOX_HD.m3u8
+#EXTINF:-1 ,Hollywood
+https://sc.id-tv.kz/Hollywood.m3u8
+#EXTINF:-1 ,Калейдоскоп
+https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
 #EXTINF:-1 ,Viasat Nature HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1 ,Viasat Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:-1 ,Viasat History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-#EXTINF:-1 ,Disney
-https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
-#EXTINF:-1 ,Мультиландия HD
-https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
-#EXTINF:-1 ,Калейдоскоп
-https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
 #EXTINF:-1 ,Дикий
 https://okkotv-live.cdnvideo.ru/channel/Dikiy.m3u8
 #EXTINF:-1 ,Дикая охота HD
 https://okkotv-live.cdnvideo.ru/channel/Dikaya_Ohota_HD.m3u8
 #EXTINF:-1 ,Дикая рыбалка HD
 https://okkotv-live.cdnvideo.ru/channel/Dikaya_Rybalka_HD.m3u8
-#EXTINF:-1 ,START Air HD
-https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
-#EXTINF:-1 ,START World HD
-https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
+#EXTINF:-1 ,CTC Kids HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
+#EXTINF:-1 ,Disney
+https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+#EXTINF:-1 ,Мультиландия HD
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+#EXTINF:-1 ,Ю
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
+#EXTINF:-1 ,Че
+https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
+#EXTINF:-1 ,СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 ,Известия HD
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
 ###############################################################################
