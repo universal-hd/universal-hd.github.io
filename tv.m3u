@@ -16,6 +16,8 @@ https://stream.backustv.ru/live/btv/index.m3u8
 https://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 ,BACKUSTV MUSIC
 https://stream.backustv.ru/live/vipbtv3/index.m3u8
+#EXTINF:-1 ,Страх HD
+https://s.catcast.tv/content/34816/index.m3u8?token=00257c7ed9c17eac821b60627bb61541
 #EXTINF:-1 ,НСТ
 https://sc.id-tv.kz/NSTV.m3u8
 #EXTINF:-1 ,A1 HD
