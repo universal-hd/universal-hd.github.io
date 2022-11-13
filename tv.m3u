@@ -18,8 +18,6 @@ https://stream.backustv.ru/live/btv2/index.m3u8
 https://stream.backustv.ru/live/vipbtv3/index.m3u8
 #EXTINF:-1 ,Страх HD
 https://s.catcast.tv/content/34816/index.m3u8?token=00257c7ed9c17eac821b60627bb61541
-#EXTINF:-1 ,Страшное HD
-https://cdn.tvbest.live:2096/live/strashnoehd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA5OjE1OjM1IEFNJmhhc2hfdmFsdWU9VXNrU2s4NnJzdHRCeHI1cDlQNGFhUT09JnZhbGlkbWludXRlcz0xMCZjaGVja2lwPXRydWUmc3RybV9sZW49MTYmaWQ9MQ==
 #EXTINF:-1 ,НСТ
 https://sc.id-tv.kz/NSTV.m3u8
 #EXTINF:-1 ,A1 HD
