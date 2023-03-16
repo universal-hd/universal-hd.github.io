@@ -118,8 +118,10 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:-1 ,Viasat History HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-#EXTINF:-1 ,History
-https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:-1 ,History HD
+https://edge05.beetv.kz/btv/SWM/HistoryHD/HistoryHD.m3u8
+#EXTINF:-1 ,Big Planet HD
+https://edge05.beetv.kz/btv/SWM/big_planet_hd/big_planet_hd.m3u8
 #EXTINF:-1 ,Видеокассета HD
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 ,Дикий
