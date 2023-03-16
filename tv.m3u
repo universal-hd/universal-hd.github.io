@@ -58,6 +58,8 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:-1 ,Дом кино
 http://193.233.9.49/streams/media/Dom_kino/index.m3u8
+#EXTINF:-1 ,Дом кино Премиум
+http://edge05.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
 #EXTINF:-1 ,START Air HD
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
 #EXTINF:-1 ,START World HD
