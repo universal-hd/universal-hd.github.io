@@ -80,6 +80,8 @@ https://sc.id-tv.kz/Cinema.m3u8
 https://sc.id-tv.kz/FOX_HD.m3u8
 #EXTINF:-1 ,Hollywood
 https://sc.id-tv.kz/Hollywood.m3u8
+#EXTINF:-1 ,Bollywood HD
+http://edge05.beetv.kz/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
 #EXTINF:-1 ,Калейдоскоп
 https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
 #EXTINF:-1 ,Мужское кино HD
