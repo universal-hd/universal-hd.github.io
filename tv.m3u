@@ -59,7 +59,7 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:-1 ,Red
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:-1 ,Дом кино
-http://31.210.208.167:80/domkino/index.m3u8?токен=тест
+http://edge04.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino.m3u8
 #EXTINF:-1 ,Дом кино Премиум
 http://edge05.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
 #EXTINF:-1 ,START Air HD
