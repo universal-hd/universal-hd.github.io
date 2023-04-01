@@ -29,7 +29,7 @@ https://edge05.beetv.kz/btv/SWM/trash_hd/trash_hd.m3u8
 #EXTINF:-1 ,НСТ
 http://edge05.beetv.kz/btv/SWM/HCT/HCT.m3u8
 #EXTINF:-1 ,Кино ТВ
-http://50.7.120.164:8081/tv_kino/index.m3u8
+http://mfe.cliptv.az/dash/Kino_TV_HDwnwnh67.ism/playlist.mpd
 #EXTINF:-1 ,A1 HD
 https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:-1 ,A2 HD
