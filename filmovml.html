@@ -99,10 +99,14 @@
 
 <script src="https://kinobox.tv/kinobox.min.js"></script>	    
 <script src="//yohoho.cc/yo.js"></script>
-<script src="https://kinobox.tv/kinobox.min.js"></script>
+
 <script>
     new Kinobox('.kinobox_player', {
-        
+        search: {
+            kinopoisk: 'KINOPOISK_ID',
+            imdb: 'IMDB_ID',
+            title: 'НАЗВАНИЕ'
+        },    
         menu: {
             default: 'menuList',
             mobile: 'menuButton',
