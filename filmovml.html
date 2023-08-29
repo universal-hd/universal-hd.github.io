@@ -1,210 +1,103 @@
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>TeleKinozal</title>
-    <meta name="description" content="Смотреть онлайн Фильмы и Сериалы.">
-
-    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" href="/icons/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="/icons/favicon-16x16.png" sizes="16x16">
-    <link rel="manifest" href="/icons/manifest.json">
-    <link rel="mask-icon" href="/icons/safari-pinned-tab.svg">
-    <meta name="apple-mobile-web-app-title" content="Yohoho">
-    <meta name="application-name" content="Yohoho">
-    <meta name="theme-color" content="#1a2c38">
-    <meta name="hdvb" content="f3c911f9969e572bc4563547f6d66215:87164361134afcd5d80325029eb28f64" />
-    <meta name="hdvb" content="5859f67b949500e65c1af11fa2b24b73:03db163bb3b8459792c2c0a8433d0d93" />
-    <meta name="verify-admitad" content="42d3fce075" />
-    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
-    <script type="module" src="main.min.js"></script>
-    <style>
-        .index,.contact,.webmaster,body{background:#1a2c38;font-family:Neucha,sans-serif;color:#fff;margin:50px auto 60px;font-size:14px}.index,.play{overflow:hidden}.online{overflow-x:hidden}.play,.play iframe,.play .col-xs-12{width:100%}.play,.play iframe,.play .col-xs-12,.online,.online iframe,.online .col-xs-12,.online .col-sm-6,.online .col-lg-4,.torrent{margin:0;padding:0;border:0}a{text-decoration:none;outline:none}a .disabled{pointer-events:none;cursor:default}.navbar{z-index:3;border:0}.navbar-inverse{background:#27313e}.navbar-inverse .navbar-brand{font-weight:700;text-shadow:1px 1px 2px #000,0 0 1em #5bb8cc;font-size:20px}.navbar-inverse .navbar-brand:first-letter{text-transform:uppercase}.navbar-inverse .navbar-toggle:focus,.navbar-inverse .navbar-toggle:hover{background-color:#232c36}.footer{z-index:3;position:absolute;bottom:0;width:100%;height:50px;background-color:#27313e}.container .text-muted{margin:15px 0}.container .text-muted span{color:#ccc}.index-background{position:absolute;z-index:2;top:0;left:0;width:100%;height:100%;background:#1a2c38;opacity:.6}.index-seo{color:#999;text-align:justify}.search-line{z-index:3;position:absolute!important;left:50%;top:40%;margin-left:-325px!important;margin-top:-155px!important;width:650px}.search-line .brand{color:#fff;font-size:70px;font-weight:700;margin:0 auto;text-align:center;text-shadow:1px 1px 2px #000,0 0 1em #5bb8cc}.search-line .brand:first-letter{text-transform:uppercase}.search-line .form{margin:20px auto;width:100%;text-align:center}.search-line .form input,.moderator input,.moderator textarea,.movie-soc textarea{color:#fff;background:#27313e;border:2px #2f3a46 solid;border-radius:5px;padding:15px;margin:30px auto 0;font-size:16px}.search-line input:hover,.moderator input:hover,.moderator textarea:hover,.movie-soc textarea:hover{border:2px #27313e solid;background:#2f3a46}a{color:#fff}a:hover{color:#fff;text-decoration:none;outline:none}a:focus{color:#ccc;text-decoration:none;outline:none}.player .buttons{position:absolute;bottom:0;left:0;margin:0 8px 8px;z-index:1;opacity:.6}.player .buttons:hover{opacity:.9}.player .title{margin:7px 10px 0}.player .translate,.player .seasons{margin:0 10px}.btn{border-radius:0!important;background:rgba(0,0,0,0.4)!important;padding:6px 0!important;overflow:hidden}.btn-group-justified .btn-group{padding:2px!important}@media only screen and (max-width: 768px){.footer,.navbar,.index-seo{display:none}.search-line{left:0;top:0;margin:0!important;width:100%}}::-webkit-input-placeholder{color:#999}::-moz-placeholder{color:#999}:-ms-input-placeholder{color:#999}:-moz-placeholder{color:#999}
-    
-	.transition{-webkit-transition:-webkit-transform .3s ease-in-out;-o-transition:transform .3s ease-in-out;transition:transform .3s ease-in-out;transition:transform .3s ease-in-out,-webkit-transform .3s ease-in-out}.transform_content{-webkit-transform:translateX(260px);-ms-transform:translateX(260px);transform:translateX(260px)}.transform_content+.white-holder{display:block!important;opacity:.4}#smartbanner.android{z-index:40!important}.phone_validation-popup{max-width:100%!important}@-webkit-keyframes bounce{45%,5%{-webkit-transform:translate3d(0,-1px,0);transform:translate3d(0,-1px,0)}10%,40%{-webkit-transform:translate3d(0,2px,0);transform:translate3d(0,2px,0)}15%,25%,35%{-webkit-transform:translate3d(0,-4px,0);transform:translate3d(0,-4px,0)}20%,30%{-webkit-transform:translate3d(0,4px,0);transform:translate3d(0,4px,0)}}@keyframes bounce{45%,5%{-webkit-transform:translate3d(0,-1px,0);transform:translate3d(0,-1px,0)}10%,40%{-webkit-transform:translate3d(0,2px,0);transform:translate3d(0,2px,0)}15%,25%,35%{-webkit-transform:translate3d(0,-4px,0);transform:translate3d(0,-4px,0)}20%,30%{-webkit-transform:translate3d(0,4px,0);transform:translate3d(0,4px,0)}}.telegram__wraper{position:fixed;bottom:90px;left:20px;-webkit-animation:bounce 4s linear infinite;animation:bounce 4s linear infinite;z-index:10}   
-        .telegram__icon{background:url(icons/TeleKinozal.png) 50% no-repeat;width:120px;height:60px;display:block;border-bottom:none!important}
-        .telegram__badge{position:absolute;top:-10px;width:120px;height:23px;border-top-right-radius: 10px;border-bottom-right-radius: 10px;border-top-left-radius: 10px;border-bottom-left-radius:10px;background-color:#000;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;font-family:Arial;letter-spacing:.34px}.telegram__badge{color:#fff;font-size:.85rem;line-height:1rem;text-align:center}
-    </style>
-    
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Фильмы и сериалы онлайн - TeleKinozal.ru</title>
+    <link rel="shortcut icon" href="favicon.svg">
+    <link rel="stylesheet" href="main.min.css">
+    <meta property="og:title" content="TeleKinozal.ru - фильмамы и сериалы"/>
+    <meta property="og:image" content="/cover.png"/>
+    <meta property="vk:image" content="/cover.png"/>
+    <script src="vue.global.prod.js"></script>
+    <script type="module" src="https://kinomix.web.app/main.min.js"></script>
+    <script src="https://kinobox.tv/kinobox.min.js"></script>
 </head>
-<body class="index">
-    
-    <div class="header">
-<div class="telegram__wraper">
-
-<a class="telegram__icon" title="Перейти в Telegram" href="//t.me/TeleKinozal1" target="_blank"></a>
-	<a target="_blank" href="//t.me/TeleKinozal1">
-		</a>
+<body id="app">
+<div id="bgover">
+    <div id="bgrect"></div>
 </div>
-
-<nav class="navbar navbar-inverse navbar-fixed-top">
+<header>
     <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Навигация</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="/">TeleKinozal</a>
-        </div>
-        <div id="navbar" class="collapse navbar-collapse">
-            <ul class="nav navbar-nav">
-                <li>
-                    <a href="https://telekinozal.ru/kinotv" target="_blank">KINO TV</a>
-                </li>
-		   <li>
-                    <a href="https://telekinozal.ru/ottplay" target="_blank">OTT-Play</a>
-                </li>
-                <li>
-                    <a href="https://telekinozal.ru/donate" target="_blank">Поддержать..</a>
-                </li>
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="/pravo.html">Правообладателям</a>
-                </li>
+        <a class="logo" href="/" @click.prevent="toHome">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" width="30" height="30">
+                <path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/>
+            </svg>
+            <span>TeleKinozal.ru</span>
+        </a>
+    </div>
+</header>
+<main class="container">
+    <form class="search_form" @submit.prevent="submitSearch">
+        <input class="search_input" name="q" aria-label="search" placeholder="Поиск фильма" v-model="query">
+        <button class="search_button">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                <path d="M10 18a7.952 7.952 0 0 0 4.897-1.688l4.396 4.396 1.414-1.414-4.396-4.396A7.952 7.952 0 0 0 18 10c0-4.411-3.589-8-8-8s-8 3.589-8 8 3.589 8 8 8zm0-14c3.309 0 6 2.691 6 6s-2.691 6-6 6-6-2.691-6-6 2.691-6 6-6z"></path>
+            </svg>
+        </button>
+    </form>
+    <section class="section section_main" v-if="section === 1">
+        <div class="main_info">
+            <div class="main_info_title">Поиск доступен по следующим данным:</div>
+            <ul class="main_info_list">
+                <li>Название фильма: <span>Интерстеллар</span></li>
+                <li>ID фильма на сайте Кинопоиск: <span>258687</span></li>
+                <li>ID фильма на сайте IMDb: <span>tt0816692</span></li>
             </ul>
         </div>
-    </div>
-</nav>
-
-<div class="index-background"></div>
-
-
-<div class="search-line">
-    <div id="yohoho" data-tv="1" data-resize="1"
-         data-player="hdvb,ustore,videocdn,collaps,kodik,trailer,torrent"
-         data-trailer="youtube,collaps"
-         data-button="videocdn: Плеер {Q}, collaps: Плеер {Q}, hdvb: Плеер {Q}, ustore: Плеер {Q}, kodik: Плеер {Q}, bazon: Плеер {Q}"
-         data-videocdn="9LCA8OrUtAVvwD3xlFYmIpUok7hNzjtB:UID"
-         data-ustore="64e813f11bdd0cfe4cdd0b2ccc4a4eab"
-	 data-bazon="a2b201cf0fb863391fe49333812b7071">
-        <div class="brand">TeleKinozal</div>
-        <div class="form">
-            <input type="text" placeholder="Название фильма / ID КиноПоиск" id="search-title" name="title" style="width: 70%">
-            <input type="button" id="search" value="Найти">
+        <div class="popular">
+            <div class="popular_switch">
+                <button @click="setPopular('films')" :class="{ active: isPopular('films') }">Популярные фильмы</button>
+                <button @click="setPopular('series')" :class="{ active: isPopular('series') }"> Популярные сериалы
+                </button>
+            </div>
+            <div class="loader" v-if="isFetching"></div>
+            <div class="covers">
+                <div class="cover" v-for="film in popular">
+                    <a class="cover_poster" :href="`.#${film.id}`" @click.prevent="toPlayer(film.id)">
+                        <img class="cover_image" :src="coverUrl(film.posterUrl)" loading="lazy" alt="">
+                    </a>
+                    <div class="cover_title">{{ film.primaryTitle }}</div>
+                    <div class="cover_year">{{ film.year }}</div>
+                    <div class="cover_rating" :class="`rating-${filmRatingBase(film.rating)}`">{{ filmRating(film.rating) }}</div>
+                </div>
+            </div>
         </div>
-    </div>
-	<a target="_blank" rel="nofollow" href="https://telekinozal.ru/tinkoff.html">
-<img src="images/Tinkoff.gif" width="100%" height="auto" />
-</div>
-
-<script src="/yo.js"></script>
-
-<div class="index-seo">
-
-    
-    </div>
-
-<footer class="footer">
-    <div class="container">
-        <p class="text-muted">Онлайн и торренты <span id="count">335 201</span> фильмов и сериалов.</p>
+    </section>
+    <section class="section section_results" v-else-if="section === 2">
+        <div class="results">
+            <div class="results_header">Результаты поиска:</div>
+            <div class="loader" v-if="isFetching"></div>
+            <div class="results_message" v-if="isFetching === false && searchResults.length === 0">
+                <div class="results_empty">Ничего не найдено.</div>
+            </div>
+            <div class="covers">
+                <div class="cover" v-for="film in searchResults">
+                    <a class="cover_poster" :href="`.#${film.id}`" @click.prevent="toPlayer(film.id)">
+                        <img class="cover_image" :src="posterUrl(film.id)" loading="lazy" alt="">
+                    </a>
+                    <div class="cover_title">{{ film.primaryTitle }}</div>
+                    <div class="cover_year">{{ film.year }}</div>
+                    <div class="cover_rating" :class="`rating-${filmRatingBase(film.rating)}`">{{ filmRating(film.rating) }}</div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section section_player" v-else-if="section === 3">
+        <div class="kinobox_player"></div>
+    </section>
+</main>
+<footer>
+    <div class="footer_body">
+        <a href="https://telekinozal.ru/" target="_blank">TeleKinozal.ru</a>
     </div>
 </footer>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js"></script>
-<script>
-    WebFont.load({
-        google: {
-            families: ['Neucha']
-        }
-    });
-</script>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var seo = document.querySelector('.index-seo').innerText;
-        var items = seo.split(' ');
-
-        (function flashWord() {
-            var i = 0;
-            function run(item) {
-                var t = setTimeout(function () {
-                    clearTimeout(t);
-                    document.querySelector('.index-seo').innerHTML = seo.replace(new RegExp(' ' + item + ' ', 'g'), ' <span style="color: #fff">' + item + '</span> ');
-                    if (items.length) {
-                        i = getRandom(0, items.length - 1);
-                        run(items[i].replace(/[^A-Za-zА-Яа-яёЁ0-9]/gim, ''));
-                    }
-                }, 100);
-            }
-            function getRandom(min, max) {
-                min = Math.ceil(min);
-                max = Math.floor(max);
-                return Math.floor(Math.random() * (max - min + 1)) + min;
-            }
-            run(items[i]);
-        })();
-
-        (function countMovies() {
-            var date = new Date();
-            var year = date.getUTCFullYear();
-            var month = date.getUTCMonth() + 1;
-            var day = date.getUTCDate();
-            var hours = date.getUTCHours();
-            var minutes = date.getUTCMinutes();
-            var seconds = date.getUTCSeconds();
-            var total = ((year - 2014) * 121680) + (month * 10140) + (day * 338) + (hours * 14) + minutes + seconds;
-            document.querySelector('#count').innerHTML = (total + '').replace(/([0-9]{3})([0-9]{3})/, '$1 $2');
-            setInterval(function () {
-                total += Math.floor(Math.random() * 3);
-                document.querySelector('#count').innerHTML = (total + '').replace(/([0-9]{3})([0-9]{3})/, '$1 $2');
-            }, 1000);
-        })();
-
-        var search = document.querySelector('#search');
-        var title = document.querySelector('#search-title');
-
-        if (window.location.hash) {
-            var hash = window.location.hash.substring(1);
-            if (title && hash) {
-                title.value = hash;
-                parse();
-            }
-        }
-
-        if (search) {
-            search.addEventListener('click', function () {
-                return parse();
-            });
-        }
-
-        if (title) {
-            title.addEventListener('keyup', function (event) {
-                event.preventDefault();
-                if (event.keyCode === 13) {
-                    return parse();
-                }
-            });
-        }
-
-        function parse() {
-            var yohoho = document.querySelector('#yohoho');
-            if (title && title.value && yohoho) {
-                if (/kinopoisk\.ru/i.test(title.value)) {
-                    var exec = /(film\/|movie\/).*?([0-9]{3,7})\//gi.exec(title.value);
-                    if (exec && exec[2]) {
-                        yohoho.dataset.kinopoisk = exec[2];
-                        window.location.hash = '#' + yohoho.dataset.kinopoisk;
-                        document.title = 'КиноПоиск: ' + yohoho.dataset.kinopoisk;
-                    }
-                } else if (/^\d+$/.test(title.value)) {
-                    yohoho.dataset.kinopoisk = title.value;
-                    window.location.hash = '#' + title.value;
-                } else {
-                    yohoho.dataset.title = title.value;
-                    window.location.hash = '#' + title.value;
-                }
-                items = [];
-                return yo();
-            }
-        }
-    });
-</script>
-
-<script src="https://hdvb-player.github.io/actualize.js" async></script>
+<div class="button-top" aria-label="Проскроллить вверх">
+    <svg width="18" height="18" viewBox="0 0 18 18">
+        <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M9.5 18a.5.5 0 0 0 .5-.5V3.8l6.246 6.246a.5.5 0 0 0 .708 0l.692-.692a.5.5 0 0 0 0-.708L9 0 .354 8.646a.5.5 0 0 0 0 .708l.692.692a.5.5 0 0 0 .708 0L8 3.8v13.7a.5.5 0 0 0 .5.5h1Z"></path>
+    </svg>
+</div>
 </body>
 </html>
