@@ -73,43 +73,25 @@
 <div class="index-background"></div>
 
 
-<main class="container">
-    <form class="search_form" @submit.prevent="submitSearch">
-        <input class="search_input" name="q" aria-label="search" placeholder="Поиск фильма" v-model="query">
-        <button class="search_button">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                <path d="M10 18a7.952 7.952 0 0 0 4.897-1.688l4.396 4.396 1.414-1.414-4.396-4.396A7.952 7.952 0 0 0 18 10c0-4.411-3.589-8-8-8s-8 3.589-8 8 3.589 8 8 8zm0-14c3.309 0 6 2.691 6 6s-2.691 6-6 6-6-2.691-6-6 2.691-6 6-6z"></path>
-            </svg>
-        </button>
-    </form>
-    <a target="_blank" rel="nofollow" href="https://telekinozal.ru/tinkoff.html">
+<div class="search-line">
+    <div id="yohoho" data-tv="1" data-resize="1"
+         data-player="hdvb,ustore,videocdn,collaps,kodik,trailer,torrent"
+         data-trailer="youtube,collaps"
+         data-button="videocdn: Плеер {Q}, collaps: Плеер {Q}, hdvb: Плеер {Q}, ustore: Плеер {Q}, kodik: Плеер {Q}, bazon: Плеер {Q}"
+         data-videocdn="9LCA8OrUtAVvwD3xlFYmIpUok7hNzjtB:UID"
+         data-ustore="64e813f11bdd0cfe4cdd0b2ccc4a4eab"
+	 data-bazon="a2b201cf0fb863391fe49333812b7071">
+        <div class="brand">TeleKinozal</div>
+        <div class="form">
+            <input type="text" placeholder="Название фильма / ID КиноПоиск" id="search-title" name="title" style="width: 70%">
+            <input type="button" id="search" value="Найти">
+        </div>
+    </div>
+	<a target="_blank" rel="nofollow" href="https://telekinozal.ru/tinkoff.html">
 <img src="images/Tinkoff.gif" width="100%" height="auto" />
-	    
-</main>
+</div>
 
-<script src="https://kinobox.tv/kinobox.min.js"></script>
-<script>new Kinobox('.kinobox_player', 
-	{search: {query: 'ID_ИЛИ_НАЗВАНИЕ'},
-	menu: {
-            default: 'menuList',
-            mobile: 'menuButton',
-            format: '{N} :: {T} ({Q})',
-            limit: 5,
-            open: false,
-        },
-        players: {
-            hdvb: {
-                enable: true,
-                position: 1,
-                token: '{token}'
-            },
-            videocdn: {
-                enable: true,
-                position: 2,
-                token: '{token}'
-	    },
-	    order: ['hdvb', 'videocdn'],
-        }).init();</script>
+<script src="/yo.js"></script>
 
 <div class="index-seo">
 
