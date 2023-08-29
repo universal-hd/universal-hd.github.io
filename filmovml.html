@@ -76,8 +76,11 @@
 <div class="kinobox_player"></div>
         <div class="brand">TeleKinozal</div>
         <div class="form">
-            <input type="text" placeholder="Название фильма / ID КиноПоиск" id="search-title" name="title" style="width: 70%">
-            <input type="button" id="search" value="Найти">
+        <form class="search_form" @submit.prevent="submitSearch">
+        <input class="search_input" name="q" aria-label="search" placeholder="Поиск фильма" v-model="query" style="width: 70%">
+        <button class="search_button">
+	</button>
+    </form>
         </div>
     <a target="_blank" rel="nofollow" href="https://telekinozal.ru/tinkoff.html">
 <img src="images/Tinkoff.gif" width="100%" height="auto" />
