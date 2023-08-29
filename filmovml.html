@@ -90,18 +90,9 @@
 <img src="images/Tinkoff.gif" width="100%" height="auto" />
 </div>
 
+<div class="kinobox_player"></div>
 <script src="https://kinobox.tv/kinobox.min.js"></script>
-
-	    <script>
-    new Kinobox('.kinobox_player', {
-        search: {
-            kinopoisk: 'KINOPOISK_ID', // поиск по kinopoisk id
-            imdb: 'IMDB_ID', // поиск по imdb id
-            title: 'TITLE' // поиск по названию
-        },
-        'players':{},
-    }).init();
-</script>
+<script>new Kinobox('.kinobox_player', {search: {query: 'ID_ИЛИ_НАЗВАНИЕ'}}).init();</script>
 
 <div class="index-seo">
 
