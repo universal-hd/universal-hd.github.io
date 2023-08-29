@@ -74,12 +74,9 @@
 
 <div class="search-line">
     <div id="kinobox_player" data-tv="1" data-resize="1"
-         data-player="hdvb,ustore,videocdn,collaps,kodik,trailer,torrent"
-         data-trailer="youtube,collaps"
-         data-button="videocdn: Плеер {Q}, collaps: Плеер {Q}, hdvb: Плеер {Q}, ustore: Плеер {Q}, kodik: Плеер {Q}, bazon: Плеер {Q}"
-         data-videocdn="9LCA8OrUtAVvwD3xlFYmIpUok7hNzjtB:UID"
-         data-ustore="64e813f11bdd0cfe4cdd0b2ccc4a4eab"
-	 data-bazon="a2b201cf0fb863391fe49333812b7071">
+         <div class="kinobox_player"></div>
+<script src="https://kinobox.tv/kinobox.min.js"></script>
+<script>new Kinobox('.kinobox_player', {search: {query: 'ID_ИЛИ_НАЗВАНИЕ'}}).init();</script>
         <div class="brand">TeleKinozal</div>
         <div class="form">
             <input type="text" placeholder="Название фильма / ID КиноПоиск" id="search-title" name="title" style="width: 70%">
@@ -90,9 +87,7 @@
 <img src="images/Tinkoff.gif" width="100%" height="auto" />
 </div>
 
-<div class="kinobox_player"></div>
-<script src="https://kinobox.tv/kinobox.min.js"></script>
-<script>new Kinobox('.kinobox_player', {search: {query: 'ID_ИЛИ_НАЗВАНИЕ'}}).init();</script>
+
 
 <div class="index-seo">
 
