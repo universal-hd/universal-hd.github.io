@@ -82,6 +82,10 @@
 	 data-bazon="a2b201cf0fb863391fe49333812b7071">
         <div class="brand">TeleKinozal</div>
         <div class="form">
+		
+    <form class="search_form" @submit.prevent="submitSearch">
+        <input class="search_input" name="q" aria-label="search" placeholder="Поиск фильма" v-model="query">
+	    </form>
             <input type="text" placeholder="Название фильма / ID КиноПоиск" id="search-title" name="title" style="width: 70%">
             <input type="button" id="search" value="Найти">
         </div>
@@ -90,8 +94,7 @@
 <img src="images/Tinkoff.gif" width="100%" height="auto" />
 </div>
 
-<script src="https://kinobox.tv/kinobox.min.js"></script>
-<script>new Kinobox('.kinobox_player', {search: {kinopoisk: id="search-title"}}).init();</script>	    
+<script src="https://kinobox.tv/kinobox.min.js"></script>	    
 <script src="//yohoho.cc/yo.js"></script>
     
 
