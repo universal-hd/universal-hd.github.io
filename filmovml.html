@@ -75,7 +75,7 @@
 <div class="index-background"></div>
 
 <div class="search-line">
-    <div class="kinobox_player"
+    <div id="yohoho" data-tv="1" data-resize="1"
          data-player="hdvb,ustore,videocdn,collaps,kodik,trailer,torrent"
          data-trailer="youtube,collaps"
          data-button="videocdn: Плеер {Q}, collaps: Плеер {Q}, hdvb: Плеер {Q}, ustore: Плеер {Q}, kodik: Плеер {Q}, bazon: Плеер {Q}"
@@ -84,11 +84,6 @@
 	 data-bazon="a2b201cf0fb863391fe49333812b7071">
         <div class="brand">TeleKinozal</div>
         <div class="form">
-		
-    <form class="search_form" @submit.prevent="submitSearch">
-        <input class="search_input" type="text" name="q" id="search-title" aria-label="search" placeholder="Поиск фильма" v-model="query">
-	    <input type="button" id="search" value="Найти">
-	    </form>
             <input type="text" placeholder="Название фильма / ID КиноПоиск" id="search-title" name="title" style="width: 70%">
             <input type="button" id="search" value="Найти">
         </div>
@@ -97,9 +92,7 @@
 <img src="images/Tinkoff.gif" width="100%" height="auto" />
 </div>
 
-<script src="https://kinobox.tv/kinobox.min.js"></script>	    
-<script src="//yohoho.cc/yo.js"></script>
-<script>new Kinobox('.kinobox_player', {search: {query: '666'}}).init();</script>      
+<script src="//yohoho.cc/yo.js"></script>      
 
 <div class="index-seo">
 
