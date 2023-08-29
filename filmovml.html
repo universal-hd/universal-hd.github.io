@@ -84,7 +84,8 @@
         <div class="form">
 		
     <form class="search_form" @submit.prevent="submitSearch">
-        <input class="search_input" name="q" aria-label="search" placeholder="Поиск фильма" v-model="query">
+        <input class="search_input" type="text" name="title" aria-label="search" placeholder="Поиск фильма" v-model="query">
+	    <input type="button" id="search" value="Найти">
 	    </form>
             <input type="text" placeholder="Название фильма / ID КиноПоиск" id="search-title" name="title" style="width: 70%">
             <input type="button" id="search" value="Найти">
@@ -96,10 +97,7 @@
 
 <script src="https://kinobox.tv/kinobox.min.js"></script>	    
 <script src="//yohoho.cc/yo.js"></script>
-  
- <section class="section section_player" v-else-if="section === 3">
-        <div class="kinobox_player"></div>
-    </section>          
+         
 
 <div class="index-seo">
 
