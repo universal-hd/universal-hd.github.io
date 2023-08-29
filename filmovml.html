@@ -85,7 +85,7 @@
         <div class="form">
 		
     <form class="search_form" @submit.prevent="submitSearch">
-        <input class="search_input" type="text" name="title" id="search-title" aria-label="search" placeholder="Поиск фильма" v-model="query">
+        <input class="search_input" type="text" name="q" id="search-title" aria-label="search" placeholder="Поиск фильма" v-model="query">
 	    <input type="button" id="search" value="Найти">
 	    </form>
             <input type="text" placeholder="Название фильма / ID КиноПоиск" id="search-title" name="title" style="width: 70%">
