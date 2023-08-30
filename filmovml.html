@@ -184,6 +184,7 @@
 
         function parse() {
     if (title && title.value) {
+        window.location.hash = '#' + title.value;
         new Kinobox('#yohoho', {search: {query: title.value}}).init();
     }
 }
