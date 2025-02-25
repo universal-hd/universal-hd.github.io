@@ -80,8 +80,48 @@
             <input type="button" id="search" value="Найти">
         </div>
     </div>
-	<a target="_blank" rel="nofollow" href="https://telekinozal.ru/1win.html">
-<img src="images/1win1.jpg" width="100%" height="auto" />
+	<!-- Добавляем контейнер для баннера -->
+<div id="banner-container">
+  <a id="banner-link" target="_blank" rel="nofollow" href="#">
+    <img id="banner-img" src="" width="100%" height="auto" />
+  </a>
+</div>
+
+<script>
+// Массив с баннерами и ссылками
+const banners = [
+  {
+    url: 'https://telekinozal.ru/1win.html',
+    image: 'images/1win1.jpg'
+  },
+  {
+    url: 'https://mtt.xyz/share/676b115e',
+    image: 'images/mttsports.jpg'
+  }
+  
+];
+
+let currentBannerIndex = 0;
+
+// Функция для смены баннера
+function changeBanner() {
+  const bannerLink = document.getElementById('banner-link');
+  const bannerImg = document.getElementById('banner-img');
+  
+  // Обновляем ссылку и изображение
+  bannerLink.href = banners[currentBannerIndex].url;
+  bannerImg.src = banners[currentBannerIndex].image;
+  
+  // Переходим к следующему баннеру
+  currentBannerIndex = (currentBannerIndex + 1) % banners.length;
+}
+
+// Меняем баннер сразу при загрузке страницы
+changeBanner();
+
+// Запускаем интервал для смены баннеров каждые 10 секунд
+setInterval(changeBanner, 10000);
+</script>
 </div>
 
 
