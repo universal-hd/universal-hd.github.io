@@ -238,7 +238,7 @@ setInterval(changeBanner, 10000);
         function parse() {
     if (title && title.value) {
         window.location.hash = '#' + title.value;
-        new Kinoplayer('#yohoho', {search: {query: title.value}}).init();
+        new runKinoplayertop('#yohoho', {search: {query: title.value}}).init();
     }
 }
     });
